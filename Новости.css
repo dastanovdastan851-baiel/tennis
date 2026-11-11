@@ -1,0 +1,16 @@
+.wra{
+    display: flex;
+    flex-direction: row;
+}
+
+.huu {
+    width: 1920px;
+    height: 263px;
+    position: absolute;
+    width: 1920px;
+    height: 263px;
+    top: 0;
+    left: 1920px; 
+}
+ 
+    
